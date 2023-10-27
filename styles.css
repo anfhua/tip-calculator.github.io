@@ -1,0 +1,19 @@
+* {
+color: #e8cb9a;
+font-family:'Times New Roman', Times, serif;
+}
+
+#results {
+    display:none;
+  } 
+
+.card {
+    background-color: #7b8794;
+	border-radius: 25px;
+}
+
+.bg-dark {
+    background-image: url("background3.jpg");
+    background-size: cover;
+	background-repeat: no-repeat;
+}
